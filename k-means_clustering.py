@@ -10,5 +10,4 @@ model = KMeans(n_clusters=10, init = 'random', n_init=10)
 
 model.fit(data)
 
-
-
+## There is no test over here. As its unsupervised learning.
